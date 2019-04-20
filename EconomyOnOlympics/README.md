@@ -31,9 +31,10 @@ GDP of all the countries starting from 1960 to 2017.
 Above mentioned datasets are combined and analyzed to derive insights
 
 ## Packages used
-__numpy__ and __pandas__ for working on the array and dataframes
-__seaborn__ and __matplotlib__ for data vizualizations
-__pandas_profiling__ for getting the description of the data
+
+* __numpy__ and __pandas__ for working on the array and dataframes
+* __seaborn__ and __matplotlib__ for data vizualizations
+* __pandas_profiling__ for getting the description of the data
 
 [Link to the notebook](./)
 
