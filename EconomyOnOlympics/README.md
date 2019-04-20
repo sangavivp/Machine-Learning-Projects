@@ -22,11 +22,11 @@ DATA SOURCE: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD
 
 ## Dataset
 1. Summer olympics History of Medals. 
-The data starts from year 1896 till year 2012.
+<br>The data starts from year 1896 till year 2012.
 2. Olympics Dictionary
-It contains the details of all the countries participated in Olympics. 
+<br>It contains the details of all the countries participated in Olympics. 
 3. Wordbank Data
-GDP of all the countries starting from 1960 to 2017.
+<br>GDP of all the countries starting from 1960 to 2017.
 
 Above mentioned datasets are combined and analyzed to derive insights
 
