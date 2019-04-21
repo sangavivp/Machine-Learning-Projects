@@ -4,16 +4,16 @@ I have analysed the effect of economy (in terms of GDP) of a country on winning 
 
 ## Background Information
 
-__Olympics__ : The modern Olympic Games or Olympics (French: Jeux olympiques) are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world's foremost sports competition with more than 200 nations participating. The Olympic Games are held every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart.
+__Olympics__ :<br> The modern Olympic Games or Olympics (French: Jeux olympiques) are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world's foremost sports competition with more than 200 nations participating. The Olympic Games are held every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart.
 
 Summer Olympics:<br>
- * The Summer Olympic Games (French: Jeux olympiques d'été)or the Games of the Olympiad,is a quadrennial international multi-sport event.
-First held in 1896 - Next in 2020 at Japan
+..* The Summer Olympic Games (French: Jeux olympiques d'été)or the Games of the Olympiad,is a quadrennial international multi-sport event.
+..* First held in 1896 - Next in 2020 at Japan
 <br>
 Winter Olympics:<br>
- * The Winter Olympic Games (French: Jeux olympiques d'hiver) is a major international multi-sport event held once every four years for sports practised on snow and ice.
- * Next to be held in 2022
-
+..* The Winter Olympic Games (French: Jeux olympiques d'hiver) is a major international multi-sport event held once every four years for sports practised on snow and ice.
+..* Next to be held in 2022
+<br>
 *Until 1992 the Winter and Summer Olympic Games were held in the same years, but in accordance with a 1986 decision by the IOC to place the Summer and Winter Games on separate four-year cycles in alternating even-numbered years, the next Winter Olympics after 1992 was in 1994.*
 
 
