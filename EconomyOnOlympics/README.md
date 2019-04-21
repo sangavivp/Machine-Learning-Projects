@@ -1,6 +1,6 @@
  # Effect of Economy on Olympics
 
-I have analysed the effect of economy (in terms of GDP) of a country in winning olympics medals.
+I have analysed the effect of economy (in terms of GDP) of a country on winning olympics medals.
 
 ## Background Information
 
