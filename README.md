@@ -13,7 +13,7 @@ I project my Machine Learning work here. Every project has a detailed descriptio
  
 Combined World Bank Data and Olympics Medals history to provide insights on changing economic trends impacting Medals won by Countries using Pandas and Numpy.
 
-[Link to the Project](./master/EconomyOnOlympics)
+[Link to the Project](./EconomyOnOlympics)
  
  <a id="project2"></a>
  ### Loan Borrower Classification
