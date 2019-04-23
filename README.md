@@ -41,7 +41,7 @@ Based on Bank Marketing calls built a Logistic Regression Model to predict if th
 
 Predicting the Response of a Life Insurance Applicant through 100+ variables, using Multiclass Logistic Regression and Random Forest to compare the results.
 
-[Link to the Project](./InsuranceAssesment)
+[Link to the Project](./InsuranceAssessment)
 
 
 
