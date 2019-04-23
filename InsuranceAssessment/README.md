@@ -7,4 +7,4 @@ So, I have developed a predictive model that classify risk using a more automate
 
 
 
-__Video Url:__ https://drive.google.com/file/d/1P6SVYAnazxigD-HjjJj_BZ99Owt5CtYt/view?usp=sharing
+__Video Url:__ http://bit.ly/2GAnhVE_InsuranceProj
