@@ -6,7 +6,7 @@ I project my Machine Learning work here. Every project has a detailed descriptio
  * [Loan Borrower Classification](#project2)
  * [Car Sales Prediction](#project3)
  * [Bank Deposit Prediction](#project4)
- * [Insurance Policy Prediction](#project5)
+ * [Insurance Assessment and Risk Prediction](#project5)
  
  <a id="project1"></a>
  ### Effect of Economy on Olympics Medals
@@ -29,14 +29,20 @@ Combined World Bank Data and Olympics Medals history to provide insights on chan
  
  [Link to the Project](./)
  
+ <a id="project4"></a>
  ### Bank Deposit Prediction
  
 Based on Bank Marketing calls built a Logistic Regression Model to predict if the user subscribes to term deposit and evaluated using Confusion Matrix.
 
 [Link to the Project](./)
 
-### Insurance Policy Prediction
+ <a id="project5"></a>
+### Insurance Assessment and Risk Prediction
 
 Predicting the Response of a Life Insurance Applicant through 100+ variables, using Multiclass Logistic Regression and Random Forest to compare the results.
 
-[Link to the Project](./)
+[Link to the Project](./InsuranceAssesment)
+
+
+
+
