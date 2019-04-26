@@ -2,7 +2,7 @@
 
 To build a predictive model to classify the risk for a Insurance Applicant.
 
-__Video Url:__ http://bit.ly/2GAnhVE_InsuranceProj
+I have given an overview of this project at the given video link : http://bit.ly/2GAnhVE_InsuranceProj
 
 ## Background Information
 
@@ -28,10 +28,10 @@ Medical_Keyword_1-48 are dummy variables.
 
 ## Models Built:
 
-  *Logistic Regression
-  *Decision Tree
-  *Random Forest
-  *Cross Validation
+  * Logistic Regression
+  * Decision Tree
+  * Random Forest
+  * Cross Validation
 
 
 
