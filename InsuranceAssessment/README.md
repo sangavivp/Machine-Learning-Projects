@@ -2,7 +2,7 @@
 
 To build a predictive model to classify the risk for a Insurance Applicant.
 
-I have given an overview of this project at the given video link : http://bit.ly/2GAnhVE_InsuranceProj
+I have given an overview of this project <a href="http://bit.ly/2GAnhVE_InsuranceProj" target="_blank">here</a> 
 
 ## Background Information
 
