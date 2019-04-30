@@ -20,21 +20,21 @@ Combined World Bank Data and Olympics Medals history to provide insights on chan
  
  Random Forest model was built to classify borrowers whether or not repay loan based on the credit policy.
  
- [Link to the Project](./)
+ [Link to the Project](./LoanBorrowerClassification)
  
  <a id="project3"></a>
  ### Car Sales Prediction
  
  Cars sales are predicted using Linear Regression Model and evaluated with R-Squared and RMSE values.
  
- [Link to the Project](./)
+ [Link to the Project](./CarSalesPrediction)
  
  <a id="project4"></a>
- ### Bank Deposit Prediction
+ ### Prediction of Bank Marketing Responses
  
 Based on Bank Marketing calls built a Logistic Regression Model to predict if the user subscribes to term deposit and evaluated using Confusion Matrix.
 
-[Link to the Project](./)
+[Link to the Project](./BankMarketingResponses)
 
  <a id="project5"></a>
 ### Insurance Assessment and Risk Prediction
