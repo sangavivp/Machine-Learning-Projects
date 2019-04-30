@@ -1,6 +1,6 @@
 # Machine Learning Projects
 ## Repository Overview
-I project my Machine Learning work here. Every project has a detailed description alongwith a Powerpoint presentation and Video giving an overview of the project.
+I project my Machine Learning work here. Every project has a detailed description and jupyter notebook.
  ## Project List
  * [Effect of Economy on Olympics Medals](#project1)
  * [Loan Borrower Classification](#project2)
