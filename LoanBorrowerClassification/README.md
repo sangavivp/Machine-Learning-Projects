@@ -1,4 +1,4 @@
-# Project Description
+# Loan Borrower Classification
 To build a model for predicting money borrowers who have a profile of having a high probability of paying back.
 
 ## Background Information
