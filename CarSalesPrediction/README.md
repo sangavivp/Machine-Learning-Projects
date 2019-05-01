@@ -1,4 +1,4 @@
-# Project Description
+# Car Sales Prediction
 
 To build a Linear Regression model to predict the car sales.
 
