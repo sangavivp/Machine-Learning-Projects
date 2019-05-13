@@ -1,6 +1,7 @@
 # Machine Learning Projects
 ## Repository Overview
 I project my Machine Learning work here. Every project has a detailed description and jupyter notebook.
+The projects have resuable python code to reduce the effort on recurring problems.
  ## Project List
  * [Effect of Economy on Olympics Medals](#project1)
  * [Loan Borrower Classification](#project2)
