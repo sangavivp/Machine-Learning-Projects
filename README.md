@@ -8,6 +8,7 @@ The projects have resuable python code to reduce the effort on recurring problem
  * [Car Sales Prediction](#project3)
  * [Bank Deposit Prediction](#project4)
  * [Insurance Assessment and Risk Prediction](#project5)
+ * [Predicting Cummulative Temperature Using ARIMA](#project6)
  
  <a id="project1"></a>
  ### Effect of Economy on Olympics Medals
@@ -43,6 +44,12 @@ Based on Bank Marketing calls built a Logistic Regression Model to predict if th
 Predicting the Response of a Life Insurance Applicant through 100+ variables, using Multiclass Logistic Regression and Random Forest to compare the results.
 
 [Link to the Project](./InsuranceAssessment)
+
+<a id="project1"></a>
+### Predicting Cummulative Temperature Using ARIMA
+To predict the month-wise cumulative temperature using Time series Model. This dataset describes the minimum daily temperatures over 10 years (1981-1990) in the city Melbourne, Australia.
+
+[Link to the Project](./WeatherPrediction_TimeSeries)
 
 
 
