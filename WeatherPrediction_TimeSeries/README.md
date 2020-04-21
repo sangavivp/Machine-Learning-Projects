@@ -1,4 +1,4 @@
-# Predicting Cummulative Temperature Using ARIMA
+# Predicting Cumulative Temperature Using ARIMA
 
 To predict the month-wise cumulative temperature using Time series Model.
 
